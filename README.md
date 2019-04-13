@@ -1,4 +1,4 @@
-Invoice generator [![Star this repo](http://githubbadges.com/star.svg?user=ProgrammingSam&repo=invoice-generator&style=flat)](https://github.com/ProgrammingSam/invoice-generator) [![Fork this repo](http://githubbadges.com/fork.svg?user=ProgrammingSam&repo=invoice-generator&style=flat)](https://github.com/ProgrammingSam/invoice-generator/fork) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+Invoice generator [![Star this repo](http://githubbadges.com/star.svg?user=ProgrammingSam&repo=invoice-generator&style=flat)](https://github.com/ProgrammingSam/invoice-generator) [![Fork this repo](http://githubbadges.com/fork.svg?user=ProgrammingSam&repo=invoice-generator&style=flat)](https://github.com/ProgrammingSam/invoice-generator/fork) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ===========
 
 Generate an invoice in PDF from a LaTeX template file (belgian legal format).
